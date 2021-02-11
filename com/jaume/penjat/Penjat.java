@@ -5,7 +5,7 @@ import java.awt.*;
 public class Penjat {
 
     public static void main(String[] args) {
-        Tauler tauler = new Tauler();
+      /*  Tauler tauler = new Tauler();
 
         String paraula = Util.makeQuestion("Selecciona paraula secreta");
         String intents = Util.makeQuestion("Quans d'intents tenim");
@@ -26,7 +26,7 @@ public class Penjat {
             System.out.println("Ho has encertat");
         }else{
             System.out.println("Has perdut");
-        }
+        }*/
     }
 
 }
