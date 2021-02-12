@@ -31,7 +31,7 @@ class TaulerTest {
     void verificarEntradaIncorrecte() {
         assertEquals("Lletra incorrecte",this.tauler.verificar("ll"));
     }
-/*
+
     @Test
     void verificarEntradaCorrecteEncertat() {
         this.tauler.verificar("a");
@@ -99,5 +99,5 @@ class TaulerTest {
     @Test
     void hasGuanyatFalse() {
         assertFalse(this.tauler.hasGuanyat());
-    }    */
+    }
 }
